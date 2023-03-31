@@ -37,6 +37,9 @@ After several considerations, Microsoft's panel concluded that for now, they wou
 - What are the most common genre?
 - What is the best time of the year to release a movie?
 
+### What are the most profitable movies, and how much to spend on them?
+![most profitable movies](../images/profit_budget_top_25,png)
+
 ## Next Steps
 
 ## References
