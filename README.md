@@ -3,14 +3,12 @@
 
 ![Movie Teather](https://github.com/pjsalinas/movies_repo/blob/main/images/krists-luhaers-AtPWnYNDJnM-unsplash.jpg)
 ### Repo Contents
-- [Exploratory Notebooks]()
-- Report Notebook
-- Project Presentation
-- Project Data
+- [Exploratory Notebooks](https://github.com/pjsalinas/movies_repo/tree/main/notebooks)
 - [References](#references)
+```
 - Project Source Code
 - Project Visuals
-
+```
 
 ### Table of Contents
 - [Introduction](#introduction)
