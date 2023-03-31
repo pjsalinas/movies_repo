@@ -63,6 +63,17 @@ Drama, Comedy, and Action are the dominating factor in the quantity of movies by
 
 ### What is the best time of the year to release a movie?
 
+![Movie Count by Genre](https://github.com/pjsalinas/movies_repo/blob/main/images/count_movies_by_month.png)
+
+As you can see December is the best month where most movies are released having the last quarter of the year the quarter that most movies are released. Does it mean profitability? 
+
+![Movie Count by Genre](https://github.com/pjsalinas/movies_repo/blob/main/images/profit_by_month.png)
+
+![Movie Count by Genre](https://github.com/pjsalinas/movies_repo/blob/main/images/profit_margin_by_month.png)
+
+May, June and July are the best months to release a movie and obtain a good profit.
+Taking about profit margins, January is the best month to release a movie but one more time May, June and July also still good months to release movies. It appears that the beginning of the summer is a good time to release movies.
+
 ## Next Steps
 
 ## References
