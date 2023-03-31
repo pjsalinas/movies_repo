@@ -1,8 +1,7 @@
 # Microsoft Movies Project
-[Pedro J. Salinas](pedrojsalinas@gmail.com)
+[Pedro J. Salinas](mailto:pedrojsalinas@gmail.com)
 
-![Unsplash](https://unsplash.com/photos/TFRezw7pQwI)
-
+![Movie Teather](https://github.com/pjsalinas/movies_repo/blob/main/images/krists-luhaers-AtPWnYNDJnM-unsplash.jpg)
 ### Repo Contents
 - [Exploratory Notebooks]()
 - Report Notebook
