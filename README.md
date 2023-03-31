@@ -5,10 +5,10 @@
 ### Repo Contents
 - [Exploratory Notebooks](https://github.com/pjsalinas/movies_repo/tree/main/notebooks)
 - [References](#references)
-```
+<!--
 - Project Source Code
 - Project Visuals
-```
+-->
 
 ### Table of Contents
 - [Introduction](#introduction)
