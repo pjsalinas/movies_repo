@@ -54,6 +54,14 @@ Median Profit Marging 82.94%
 
 **Recommendations: Microsoft should make movies with production budgets of $104,078,95 to obtain margins of 82.94%**
 
+### What are the most common genre?
+After combining `im.db`, and `tn.movie_budgets.csv.gz`
+![Movie Count by Genre](https://github.com/pjsalinas/movies_repo/blob/main/images/movie_count_by_genre.png)
+
+Drama, Comedy, and Action are the dominating factor in the quantity of movies by genre. Does this necessarily mean these are the most profitable genres? In order to determine this we will once again group each genre but this time we are going to take a look at the average net profit for each.
+
+
+### What is the best time of the year to release a movie?
 
 ## Next Steps
 
