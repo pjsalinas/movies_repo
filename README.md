@@ -1,11 +1,14 @@
 # Microsoft Movies Project
+[Pedro J. Salinas](pedrojsalinas@gmail.com)
+
+![Unsplash](https://unsplash.com/photos/TFRezw7pQwI)
 
 ### Repo Contents
 - [Exploratory Notebooks]()
 - Report Notebook
 - Project Presentation
 - Project Data
-- References
+- [References](#references)
 - Project Source Code
 - Project Visuals
 
@@ -13,20 +16,15 @@
 ### Table of Contents
 - [Introduction](#introduction)
 - [Project Overview](#overview)
-- Conda Environment
 - [Data](#data)
-- Data Preparation
-- Results
-- Next Steps
-- References
+- [Results](#results)
+- [Next Steps](#next steps)
 
 ## Introduction
 This project analyzed the movie industry on behalf of Microsoft Inc., which is considering investing in the movie business. Due to the numerous factors that influence the success of a movie across various platforms, and considering Microsoft's time constraints and pressure, we focused on analyzing a limited number of key parameters to gain insights and generate actionable recommendations for the Microsoft board of directors.
 
 ## Overview
 Microsoft is exploring the possibility of entering the movie industry using its surplus cash. In 2019, the movie business was valued at $42.2 billion, while the global film industry, including box office and home entertainment revenue, was worth $136 billion in 2018. To assess the viability of such an investment, Microsoft is planning to conduct a thorough analysis of the movie business, focusing on aspects such as profitability and budget. Once the Microsoft board approves the investment, the company will move forward with hiring directors, writers, and actors.
-
-### Conda Environment
 
 ## Data
 The Microsoft Marketing team provided us with several datasets pertaining to the movie industry. After careful consideration, we selected the two most relevant and reliable datasets. Using these datasets, we were able to evaluate and analyze various types of data such as dates, profits, budgets, and other relevant factors.
@@ -74,7 +72,14 @@ As you can see December is the best month where most movies are released having 
 May, June and July are the best months to release a movie and obtain a good profit.
 Taking about profit margins, January is the best month to release a movie but one more time May, June and July also still good months to release movies. It appears that the beginning of the summer is a good time to release movies.
 
-## Next Steps
+## Results
+* Starting with a production budget of $104078951 will allow Microsoft to obtain a margin profit of 82.94%
+* Microsoft should concentrated in the 6 best genres: Adventure, Action, Comedy, Drama, Sci-Fi and Animation. Where Sci-Fi and Animation have less competition.
+* The best months to release a profitable movie are May, June, and July.
 
+## Next Steps
+- Analysing profit margin for movies with award winning actors, directors and writers.
+- The impact in profits a movie might have after the presentation in a premier film festival such Cannes.
+ 
 ## References
 Unsplash for the following image: [Unsplash](https://unsplash.com/photos/TFRezw7pQwI)
