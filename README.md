@@ -18,7 +18,7 @@
 - [Project Overview](#overview)
 - [Data](#data)
 - [Results](#results)
-- [Next Steps](#next steps)
+- [Next Steps](#next)
 
 ## Introduction
 This project analyzed the movie industry on behalf of Microsoft Inc., which is considering investing in the movie business. Due to the numerous factors that influence the success of a movie across various platforms, and considering Microsoft's time constraints and pressure, we focused on analyzing a limited number of key parameters to gain insights and generate actionable recommendations for the Microsoft board of directors.
